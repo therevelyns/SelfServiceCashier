@@ -10,7 +10,6 @@
 #### 4. Menghapus salah satu item yang sudah diinput sebelumnya (delete_transaction)
 #### 5. Mereset data item belanjaan yang sudah lebih dulu diinput sebelumnya (reset_transaction)
 #### 6. Melakukan pengecekan data yang sudah diinput (check_order)
-#### 7. Menghitung sendiri total harga belanjaan yang akan dibayar pelanggan (total_price)
 
 
 # Alur
@@ -31,11 +30,22 @@
 #### - pseudocode check_order
 ####   input: nama item, qty item, harga_item
 ####   output: dictionary dengan data terupdate
-#### - pseudocode total_price
-####   input: nama, qty, harga
-####   output: total harga yang harus dibayar pelanggan
 #### - pseudocode reset_ & delete_
 
 
 # Hasil Test Case
+#### 1. Penambahan item baru
+![image](https://user-images.githubusercontent.com/109421939/218330318-6cf5ad45-82d3-44f0-9caa-b2d38a9c7c35.png)
+
+#### 2. Pembaruan data
+![image](https://user-images.githubusercontent.com/109421939/218330184-bc88f665-1632-4b12-b458-5dcf58b028ce.png)
+
+#### 3. Pengecekan data yang sudah diinput
+![image](https://user-images.githubusercontent.com/109421939/218330246-59661bfa-c56d-4613-bd83-04b1d2641e61.png)
+
+#### 4. Menghapus data tertentu
+![image](https://user-images.githubusercontent.com/109421939/218330572-8ece63c4-03cd-45df-ac55-c93a29d45951.png)
+
+#### 5. Menghapus semua data
+![image](https://user-images.githubusercontent.com/109421939/218330737-a43d191d-328f-41ed-a3f5-e703d10d848f.png)
 
