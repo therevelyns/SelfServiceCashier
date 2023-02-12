@@ -14,6 +14,10 @@
 
 
 # Alur
+
+## Workflow
+![image](https://user-images.githubusercontent.com/109421939/218322301-301fd6e2-355d-49d5-ae74-c25bb98ba3be.png)
+
 #### - Memahami latar belakang masalah
 #### - Memahami & membuat requirements/objectives/fiturs sesuai dengan latar belakang masalah
 #### - Mengajukan solusi, yaitu sebuah obyek class untuk mendeskripsikan transaksi pelanggan
@@ -31,9 +35,6 @@
 ####   input: nama, qty, harga
 ####   output: total harga yang harus dibayar pelanggan
 #### - pseudocode reset_ & delete_
-
-## Workflow
-![image](https://user-images.githubusercontent.com/109421939/218322301-301fd6e2-355d-49d5-ae74-c25bb98ba3be.png)
 
 
 # Hasil Test Case
