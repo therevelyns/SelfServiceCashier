@@ -1,6 +1,7 @@
 # Self  Service Cashier
 #### Self Service Cashier adalah sistem kasir super di sebuah supermarket yang memungkinkan pelanggan, dimana pun mereka berada, dapat memproses belanjaannya sendiri secara langsung.
 
+
 # Objectives & Requirements
 #### Program yang dibuat mampu:
 #### 1. Membuat ID transaksi pelanggan
@@ -10,6 +11,7 @@
 #### 5. Mereset data item belanjaan yang sudah lebih dulu diinput sebelumnya (reset_transaction)
 #### 6. Melakukan pengecekan data yang sudah diinput (check_order)
 #### 7. Menghitung sendiri total harga belanjaan yang akan dibayar pelanggan (total_price)
+
 
 # Alur
 #### - Memahami latar belakang masalah
@@ -30,5 +32,9 @@
 ####   output: total harga yang harus dibayar pelanggan
 #### - pseudocode reset_ & delete_
 
-# Test Case
+## Workflow
+![image](https://user-images.githubusercontent.com/109421939/218322301-301fd6e2-355d-49d5-ae74-c25bb98ba3be.png)
+
+
+# Hasil Test Case
 
